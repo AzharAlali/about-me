@@ -21,8 +21,7 @@ In this repo I write about myself as a student who study web deveopment and I hv
 
  There is not much deep languages are required to publish a repo in GitHub. It's simple and easy, all you need is a browser that you prefer to use.  
 
- [browser] (https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI__n436er5AIVsP_jBx3fsw20EAAYASAAEgJOdfD_BwE&gclsrc=aw.ds) 
- [creat an acunt in GitHub] (https://github.com)
+ 
 
  ## Recommended Resources
 
@@ -35,8 +34,7 @@ In this repo I write about myself as a student who study web deveopment and I hv
  - https://stackoverflow.com/
 
  - https://github.com/
-
- - 
+ 
 
 
 
