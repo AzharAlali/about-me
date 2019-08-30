@@ -29,11 +29,11 @@ In this repo I write about myself as a student who study web deveopment and I hv
 
  Here are some useful resources for web development: 
 
- - https://www.w3schools.com/whatis/ 
+ - [w3school](https://www.w3schools.com/whatis/ )
 
- - https://stackoverflow.com/
+ - [stackoverflow](https://stackoverflow.com/)
 
- - https://github.com/
+ - [github](https://github.com/)
  
 
 
