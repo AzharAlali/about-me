@@ -13,31 +13,26 @@
 
 
 
-this repo is about myself and some usefull tools and resurcess for developing web apps. 
+In this repo I write about myself as a student who study web deveopment and I hve some usefull tools and resurcess for developing web apps to share with you. 
 
 
 
 ## Recommended Tools
 
-
-
- tell your user what tools and languages are required for them to publish a repo with GitHub pages.
-
+ There is not much deep languages are required to publish a repo in GitHub. It's simple and easy, all you need is a browser that you prefer to use.  
 
 
  ## Recommended Resources
 
 
 
- Share links to at least 3 resources you like for web development
+ Here what I see useful resources for web development: 
 
+ - https://www.w3schools.com/whatis/ 
 
+ - https://stackoverflow.com/
 
- - 
-
- - 
-
- - 
+ - https://github.com/
 
  - 
 
