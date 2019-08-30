@@ -3,9 +3,9 @@
 
 ## Repository Links
 
-- 
+- [Source Repository](https://github.com/AzharAlali/about-me/blob/master/README.md)
 
-- 
+- [Hosted Page](https://azharalali.github.io/about-me/)
 
 
 
