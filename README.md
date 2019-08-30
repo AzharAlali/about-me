@@ -1,13 +1,6 @@
 # about-me
 
 
-## Repository Links
-
-- [Source Repository](https://github.com/AzharAlali/about-me/blob/master/README.md)
-
-- [Hosted Page](https://azharalali.github.io/about-me/)
-
-
 
 ## About
 
@@ -16,13 +9,20 @@
 In this repo I write about myself as a student who study web deveopment and I hve some usefull tools and resurcess for developing web apps to share with you. 
 
 
+## Repository Links
+
+- [Source Repository](https://github.com/AzharAlali/about-me/blob/master/README.md)
+
+- [Hosted Page](https://azharalali.github.io/about-me/) 
+
+
 
 ## Recommended Tools
 
  There is not much deep languages are required to publish a repo in GitHub. It's simple and easy, all you need is a browser that you prefer to use.  
 
- browser https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI__n436er5AIVsP_jBx3fsw20EAAYASAAEgJOdfD_BwE&gclsrc=aw.ds 
- creat an acunt in GitHub  https://github.com 
+ [browser] (https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI__n436er5AIVsP_jBx3fsw20EAAYASAAEgJOdfD_BwE&gclsrc=aw.ds) 
+ [creat an acunt in GitHub] (https://github.com)
 
  ## Recommended Resources
 
@@ -42,10 +42,10 @@ In this repo I write about myself as a student who study web deveopment and I hv
 
  ## Contributors
 
-
-
  Include your name, your degree program, and display a favorite image 
-
+ My name is Azhar (it means flowers in Arabic). I'm senior in computer sciences. 
+ 
+ 
 
 
   
